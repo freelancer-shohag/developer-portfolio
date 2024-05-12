@@ -86,12 +86,17 @@ nav a{
 /* Header Area End Css */
 
 /* Main Area Start Css */
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+}
+
 /* Main Area End Css */
 
 
 /* About Section Start Css */
 .about {
-    margin: 130px;
+    margin: 130px 0;
     background: #FFF8F3;
     padding: 130px;
     border-radius: 20px;
@@ -107,4 +112,12 @@ nav a{
     font-size: 18px;
     color: #757575;
 }
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+/* .about-info{
+    text-align: center;
+} */
 /* About Section End Css */
