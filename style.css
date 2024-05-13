@@ -198,3 +198,12 @@ main{
     margin-top: 50px;
 }
 /* My Resume section end css */
+
+/* Footer Style Start Css */
+footer{
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
+}
+/* Footer Style End Css */
